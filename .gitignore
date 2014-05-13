@@ -1,6 +1,12 @@
+.idea
+*.iml
+.target
+target
+**/target
 *.class
-
-# Package Files #
 *.jar
+*.test-jar
 *.war
 *.ear
+*~
+checkstyle.cache
